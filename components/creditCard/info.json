@@ -1,0 +1,7 @@
+{
+  "creditCard_1": {
+    "creditCardType": "Mastercard",
+    "cardDescription": "Basic suscription",
+    "cardText": "Este es un texto"
+  }
+}
