@@ -1,0 +1,14 @@
+{
+  "name": "calendar-cards",
+  "main": "calendar-cards.js",
+  "dependencies": {
+    "@polymer/paper-card": "^3.0.0-pre.21",
+    "@polymer/polymer": "^3.0.0",
+    "moment-timezone": "^0.5.21"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
